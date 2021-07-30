@@ -4,8 +4,13 @@ Sono Michael e mi piace programmare in node.js
 
 ### Strumenti che uso?
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a><br>
+
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
+<img align="left" alt="replit" width="70px" src="https://cdn.freebiesupply.com/logos/large/2x/replit-logo-png-transparent.png" />
+<br>
+
 
 ### Statistiche
 
